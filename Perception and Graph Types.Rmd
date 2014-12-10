@@ -1,0 +1,57 @@
+---
+title: "Perception and Graph Types"
+output: html_document
+---
+By: Aaron Grenz
+
+Reflection #2 
+
+Data visualization is becoming more and more important in the business world as we
+descend down the bath of big data. What significance does large masses of information hold if
+we can not retrieve conclusions from them? The ability to clearly display data is a skill that is
+lacking throughout the workplaces of the world. Are we not trained properly in the art of visual
+data display or do we not fully understand how the human mind perceives visual information? In
+the article "Principles of Data Visualization - What We See in a Visual", the way in which we
+process information is explored. This article sheds light on the mechanics of processing visual
+information, the role of memory in this process, and how to apply this understanding to the
+visualizations we create. Before diving into the meat of what I learned, I will break down the
+basic purpose of visualization.
+
+Prior to reading this article, I knew the goal of any graph or table was to provide the
+user with information. The reading breaks this down into two separate, but sometimes
+overlapping goals: visualization for explaining and visualization for exploring. For the first goal,
+visuals are used to guide us down a path so that we understand why and what is happening.
+This type of visual would be used to analyze the daytoday operations of a company. For
+exploring, we are driving to find out how an event or situation is occurring. Analysis of this sort
+is developed to look at different processes and determine if there is a more streamlined way of
+operation. Exploratory analysis falls into the research and development category. Edward
+Tufte's quote on visualization really stuck with me: "Graphical excellence is that which gives to
+the viewer the greatest number of ideas in the shortest time with the least ink in the smallest
+space." If you break down what Tufte is saying, it leads to one word: simplicity. Graphs and
+tables are most effective when they are simple and easy to understand. The bright colors and
+flare are all side distractions that pull our attention away from the key points. This is where
+perception gets involved.
+
+When we look at something, our eyesight and brain work in parallel with each other.
+The eyes see what is on the paper and our brain processes the selections in chunks. This
+continues until we process what our eyes are focused on. When looking at a graph, we are
+using our working memory to process the information and can only retain three slots of working
+memory at a time. So why is this important? While looking at a visual, the first items that our
+working memory focuses on are deemed "preattentive attributes." The goal is to produce
+visualizations that capture these attributes, so that the user immediately focuses on what the
+producer wants them to. Examples of preattentive attributes include spatial position, size/area,
+hue/color, and intensity. Preattentive attributes are not the only item of focus for our working
+memory though.
+
+We also direct our attention to themes, which are called analytical patterns. The article
+compares preattentive attributes to letters and the patterns that make up these attributes as the
+words. Examples of analytical patterns are going up/going down/remaining flat, wide/narrow,
+tightly/loosely distributed, and normal/abnormal. A set of characteristics called Gestalt
+Principles help to bring out the patterns in visualizations. Examples of Gestalt Principles are
+figure & ground, proximity, and similarity. In short, these principles bring to light the important
+patterns and downplay the rest.
+
+This article enlightened me on the mechanics of perception and why we see visuals
+differently based on preattentive attributes. I also learned about the basic categorical purposes
+of visualizations and the goal behind each. Most importantly, understanding the basic concepts
+of data visualization will help me construct more effective models in the future.

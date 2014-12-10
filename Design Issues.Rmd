@@ -1,0 +1,37 @@
+---
+title: "Design Issues"
+output: html_document
+---
+By: Aaron Grenz
+
+Reflection #1
+
+Chapter 1 discusses the do's and don'ts of making graphs.  All features, perspectives, and ideas are considered in the analysis.  Below is a list of the major points and findings:
+
+. Chartjunk is features that add nothing to the information content of a graph.
+
+.	Font illegibility is a major concern, especially when graphs are printed in papers because they may be shrunk up to 50%.
+
+.  Shading can create emphasis on lesser important information.
+
+.	3-D graphs create difficulties in perceiving the actual size.  Columns in the back of a projection appear smaller than the ones in the front.
+
+.	Only use color when it makes a graph more clear, not just to add flare.
+
+.	Graphical over-interpretation can be described as fitting a curve to data that is arranged in a random pattern.  This gives the user a false theory of understanding what is going on with the situation.  The predictive values will not stand true.
+
+.	Graphical carpet bombing is described as the overuse of complicated graphs to confused, bore, and/or daze the user.  If the goal is to confuse, this is the way to do it.  Otherwise, a more effective approach is to use varying graph types, combine graphs, and include graphs that touch on only the most important pieces of information.
+
+.	High data density is self explanatory: a large amount of information in a small amount of space.  If designed correctly, this is possible to achieve and is more sought out than a graph of low data density.  Conversely, a low data density graph can be justified if it is sufficient enough to get a point across or emphasizes an important point.
+
+.	Data-hiding is a strategy used to obscure the true story of a graph.  This can be completed in a number of different ways including, but not limited to: line graphs without the data points, heavy grid lines, and graphing disparate quantities on the same scale in order to hide the magnitudes.
+
+.	Inconsistent visual metaphors are a common issue within visualization.  Imagine a situation in which you are tracking apples and bananas.  On a frequency graph, the color yellow is designated for bananas and green for apples.  Yet on a graph of total sales, bananas are represented by green and apples yellow.  That easily gets confusing for the end user and does not simplify the analysis.
+
+.	Graphs without meaning are deemed meaningless, naturally.  In order for a graph to sustain purpose, it must have accurate and informative captions, a title, and written context to make the meaning comprehendible.  Without these crucial items, a graph is simply a picture without purpose.
+
+.	Another common problem with graphs is the use of area as a visual metaphor instead of length.  It is easy for us to interpret a one-dimensional measurement like length, but when we have to make comparisons with multiple measurements, our brains cannot comprehend the differences nearly as accurately.
+
+.	As we develop in the world of visualization, labeling should be done correctly every time without mistakes. Common errors with labeling graphs include the type size being too small, poor placement of labels, and too few labels.
+
+.	Emphasizing the right information on a graph can be a challenge.  All of the elements previously touched on have an effect on what is emphasized.  It is important to keep graphs simple and the focus on the data.
